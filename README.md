@@ -6,7 +6,8 @@
 ## 如何執行 ##
 1. npm install
 2. bower install
-3. gulp
+3. 參照Memo修改CommonJS，將setHeader註解掉
+4. gulp
 
 
 ## UnitTest ##
